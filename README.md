@@ -12,7 +12,7 @@ cp .env.example .env  # add your Azure credentials
 python agent.py
 
 ## Demo
-[link to video]
+https://youtu.be/ySTkH52FiRU
 
 ## Track
 Reasoning Agents · Foundry IQ
